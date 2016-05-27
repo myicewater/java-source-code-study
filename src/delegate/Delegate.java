@@ -1,3 +1,6 @@
+/**
+ * delegate包，主要演示了java通过注解代理
+ */
 package delegate;
 
 import java.lang.annotation.Documented;

@@ -14,7 +14,7 @@ public class TestDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SourceClass s = DelegateConsole.bind(SourceClass.class, new SourceProxy());
-		
+		StringBuffer f;
 		s.hello();
 	}
 
