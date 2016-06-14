@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="slf4j-log4j12-1.6.4.jar"/>
 	<classpathentry kind="lib" path="log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jedis-2.4.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
